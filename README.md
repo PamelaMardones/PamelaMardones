@@ -1,6 +1,6 @@
 # Hola, mi nombre es Pamela Mardones 🦁
 
-### Soy estudiante de la carrera Analista programador en Duoc UC, último año 🥳
+### Analista programador Computacional
 
 ## Tecnologías que manejo:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
